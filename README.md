@@ -1,6 +1,8 @@
 # About the Project
 
-This repository includes the code used for an undergraduate individual research project titled "Adaptive Thermodynamic Cycle for Waste Heat Recovery" at the University of Southampton. The code is written in Python 3 and utilises the REFPROP library to model a thermodynamic Rankine cycle.
+This repository includes the code used for an undergraduate individual research project titled "Adaptive Thermodynamic Cycle for Waste Heat Recovery" at the University of Southampton. 
+
+The code is written in Python 3 and utilises the REFPROP library to model a thermodynamic Rankine cycle.
 
 The aim of the project is to investigate the effectiveness of an adaptive Rankine cycle using a mixture of zeotropic fluids that would be suitable for waste heat recovery.
 
